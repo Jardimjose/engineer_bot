@@ -23,15 +23,17 @@ module.exports = {
                     suspensionGeometry: "Front Camber: -2.80 \nRear Camber: -1.30 \nFront Toe: 0.08 \nRear Toe: 0.29",
                     suspension: "Font Suspension: 4 Rear Suspension: 5 \nFront Anti-Roll Bar: 3 \nRear Anti-Roll Bar: 4 \nFront Ride Height: 3 \nRear Ride Height: 3",
                     brakes: "Brake Pressure: 100% \nFront Brake Bias: 58%",
-                    tyrePressure: "Front Right Tyre Pressure: 23.0psi \nFront Left Tyre Pressure: 23.0psi \nRear Right Pressure: 21.5psi \nRear Left Tyre Pressure: 21.5psi"
+                    tyrePressure: "Front Right Tyre Pressure: 23.0psi \nFront Left Tyre Pressure: 23.0psi \nRear Right Pressure: 21.5psi \nRear Left Tyre Pressure: 21.5psi",
+                    trackImage: "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png.transform/9col/image.png"
                 },
                 vietnam:{
-                    aerodynamics: "Front Wing Aero: 4 \nRear Wing Aero: 4",
-                    transmission: "Differential Adjustment On Throttle: 60%  \nDifferential Adjustment Off throttle: 60%",
-                    suspensionGeometry: "Front Camber: -2.80 \nRear Camber: -1.30 \nFront Toe: 0.08 \nRear Toe: 0.29",
-                    suspension: "Font Suspension: 4 Rear Suspension: 5 \nFront Anti-Roll Bar: 3 \nRear Anti-Roll Bar: 4 \nFront Ride Height: 3 \nRear Ride Height: 3",
-                    brakes: "Brake Pressure: 100% \nFront Brake Bias: 58%",
-                    tyrePressure: "Front Right Tyre Pressure: 23.0psi \nFront Left Tyre Pressure: 23.0psi \nRear Right Pressure: 21.5psi \nRear Left Tyre Pressure: 21.5psi"
+                    aerodynamics: "Front Wing Aero: 2 \nRear Wing Aero: 7",
+                    transmission: "Differential Adjustment On Throttle: 50%  \nDifferential Adjustment Off throttle: 70%",
+                    suspensionGeometry: "Front Camber: -2.50 \nRear Camber: -1.00 \nFront Toe: 0.05 \nRear Toe: 0.20",
+                    suspension: "Font Suspension: 3 Rear Suspension: 4 \nFront Anti-Roll Bar: 8 \nRear Anti-Roll Bar: 11 \nFront Ride Height: 3 \nRear Ride Height: 4",
+                    brakes: "Brake Pressure: 100% \nFront Brake Bias: 55%",
+                    tyrePressure: "Front Right Tyre Pressure: 21.0psi \nFront Left Tyre Pressure: 21.0psi \nRear Right Pressure: 19.5psi \nRear Left Tyre Pressure: 19.5psi",
+                    trackImage: "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Vietnam_Circuit.png"
                 },
 
             },
@@ -50,15 +52,18 @@ module.exports = {
                     suspensionGeometry: "Front Camber: -3.00 \nRear Camber: -1.50 \nFront Toe: 0.05 \nRear Toe: 0.20",
                     suspension: "Font Suspension: 5 Rear Suspension: 3 \nFront Anti-Roll Bar: 6 \nRear Anti-Roll Bar: 10 \nFront Ride Height: 4 \nRear Ride Height: 5",
                     brakes: "Brake Pressure: 100% \nFront Brake Bias: 52%",
-                    tyrePressure: "Front Right Tyre Pressure: 24.2psi \nFront Left Tyre Pressure: 24.2psi \nRear Right Pressure: 20.3psi \nRear Left Tyre Pressure: 20.3psi"
+                    tyrePressure: "Front Right Tyre Pressure: 24.2psi \nFront Left Tyre Pressure: 24.2psi \nRear Right Pressure: 20.3psi \nRear Left Tyre Pressure: 20.3psi",
+                    trackImage: "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.png.transform/9col/image.png"
                 },
                 vietnam:{
-                    aerodynamics: "Front Wing Aero: 4 \nRear Wing Aero: 4",
-                    transmission: "Differential Adjustment On Throttle: 60%  \nDifferential Adjustment Off throttle: 60%",
-                    suspensionGeometry: "Front Camber: -2.80 \nRear Camber: -1.30 \nFront Toe: 0.08 \nRear Toe: 0.29",
-                    suspension: "Font Suspension: 4 Rear Suspension: 5 \nFront Anti-Roll Bar: 3 \nRear Anti-Roll Bar: 4 \nFront Ride Height: 3 \nRear Ride Height: 3",
-                    brakes: "Brake Pressure: 100% \nFront Brake Bias: 58%",
-                    tyrePressure: "Front Right Tyre Pressure: 23.0psi \nFront Left Tyre Pressure: 23.0psi \nRear Right Pressure: 21.5psi \nRear Left Tyre Pressure: 21.5psi"
+                    aerodynamics: "Front Wing Aero: 4 \nRear Wing Aero: 7",
+                    transmission: "Differential Adjustment On Throttle: 50%  \nDifferential Adjustment Off throttle: 70%",
+                    suspensionGeometry: "Front Camber: -2.50 \nRear Camber: -1.00 \nFront Toe: 0.05 \nRear Toe: 0.20",
+                    suspension: "Font Suspension: 3 Rear Suspension: 4 \nFront Anti-Roll Bar: 8 \nRear Anti-Roll Bar: 11 \nFront Ride Height: 4 \nRear Ride Height: 8",
+                    brakes: "Brake Pressure: 100% \nFront Brake Bias: 55%",
+                    tyrePressure: "Front Right Tyre Pressure: 21.0psi \nFront Left Tyre Pressure: 21.0psi \nRear Right Pressure: 19.5psi \nRear Left Tyre Pressure: 19.5psi",
+                    trackImage: "https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Vietnam_Circuit.png"
+
                 },
             },
         }
@@ -71,6 +76,7 @@ module.exports = {
 
         let _ = new MessageEmbed();
         _.setColor('#F71D00');
+        _.setThumbnail(`${tracks[weather][track].trackImage}`)
         _.setTitle(`Setup for ${upperCase(track)}`);
         _.addField(`Aerodynamics`, `${tracks[weather][track].aerodynamics}`);
         _.addField(`Transmission`, `${tracks[weather][track].transmission}`);
@@ -78,8 +84,12 @@ module.exports = {
         _.addField(`Suspension`, `${tracks[weather][track].suspension}`);
         _.addField(`Brakes`, `${tracks[weather][track].brakes}`);
         _.addField(`Tyre Pressure`, `${tracks[weather][track].tyrePressure}`);
+        _.setFooter("setup from f1carsetup.com")
         _.setTimestamp()
 
         message.channel.send(_);
     },
 };
+
+// monaco track layout 'https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monoco_Circuit.png.transform/9col/image.png'
+// china track layout 'https://www.formula1.com/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/China_Circuit.png'

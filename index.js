@@ -24,7 +24,7 @@ client.on('message', message => {
 	if (command === 'setup') {
 		client.commands.get('setup').execute(message, args);
 	} else if (command === 'help') {
-		client.commands.get('setup help').execute(message, args);
+		client.commands.get('help').execute(message, args);
 	}
 });
 
